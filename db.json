@@ -1,0 +1,34 @@
+{
+  "mCategories": [
+    {
+      "Channels": [
+        {
+          "LogoPath": "",
+          "Name": "BBC",
+          "Url": ""
+        },
+        {
+          "LogoPath": "",
+          "Name": "CNN",
+          "Url": ""
+        }
+      ],
+      "CategoryName": "News"
+    },
+    {
+      "Channels": [
+        {
+          "LogoPath": "",
+          "Name": "TVM",
+          "Url": ""
+        },
+        {
+          "LogoPath": "",
+          "Name": "Rajje TV",
+          "Url": ""
+        }
+      ],
+      "CategoryName": "Local"
+    }
+  ]
+}
